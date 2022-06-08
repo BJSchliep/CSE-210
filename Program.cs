@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace game
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("What is you first name");
+            Console.WriteLine("My name is Brandon");
+
+        }
+    }
+}
